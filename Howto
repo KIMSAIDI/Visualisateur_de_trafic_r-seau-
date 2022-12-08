@@ -1,0 +1,24 @@
+# Howto
+
+Pour lancer le fichier,
+
+- Placez vous dans le fichier start et lancez le programme.
+- Dans le terminal, vous pourrez rentrer le nom du fichier contenant les trames
+- Une fois cette étape réalisée, vous aurez trois possibilités :
+  1. Ne pas utiliser de filtre, un visualisateur vous sera affiché contenant toute les trames dans le fichier rentré précédemment
+  2. Quitter le programme
+  3. Utiliser un filtre et dans ce cas, vous pourrez (ou non) appliquer un filtre sur trois champs :
+  
+  Les adresses IP
+  Les protocoles (si un filtre à été appliqué précédemmment sur les adresses IP, la liste des protocoles sera en fonctions de l'adresses IP selectionné. Sinon,
+  parmis tous les protocoles présent dans le fichier)
+  Les ports (le même raisonnement que pour les protocoles est appliqué ici)
+  
+- Une fois le filtre appliqué (ou non), une fenêtre apparaît avec toute les trames filtrés (ou non).
+- Chaque couleur correspond au communications entre deux machines.
+- Afin de voir le visualisateur d'une communication, il suffit d'appuyer sur une des lignes correspondante 
+- Une fois la ligne appuyé, toutes les informations seront copiés dans le fichier diagramme.txt
+- Pour relancer avec un nouveau filtre, fermez les deux interfaces graphiques.
+- Pour quitter, il suffit d'écrire dans le terminale "quitter" ou "Quitter".
+  
+  
