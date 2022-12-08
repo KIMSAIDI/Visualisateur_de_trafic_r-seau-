@@ -39,7 +39,7 @@ Le projet est consitué de cinq fichiers dont trois pour le code et deux fichier
       
       Filtre() : La fonction permet de filtrer les trames selon les adresses IP, les protcoles et les ports parmis la liste des trames renvoyé par analyse(file).
       
-   - diagramme.txt : 
+   - Diagramme.txt : 
      Dès qu'une ligne est selectionné, la visualisation de ces flux sont copiés dans le fichier diagramme.txt afin de pouvoir relire plus facile les échanges entre deux machines.
       
       
