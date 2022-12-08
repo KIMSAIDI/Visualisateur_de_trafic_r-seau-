@@ -27,7 +27,7 @@ Le projet est consitué de cinq fichiers dont trois pour le code et deux fichier
     Verify_Http(trame):  prend une trame en argument et verifie si la trame est une requête HTTP
     
     
-    - Start.py : 
+  - Start.py : 
       
       Le fichier est le plus important de notre projet. Ce fichier permet d'afficher l'interface graphique.
       
@@ -39,7 +39,7 @@ Le projet est consitué de cinq fichiers dont trois pour le code et deux fichier
       
       Filtre() : La fonction permet de filtrer les trames selon les adresses IP, les protcoles et les ports parmis la liste des trames renvoyé par analyse(file).
       
-     - diagramme.txt : 
+   - diagramme.txt : 
      Dès qu'une ligne est selectionné, la visualisation de ces flux sont copiés dans le fichier diagramme.txt afin de pouvoir relire plus facile les échanges entre deux machines.
       
       
